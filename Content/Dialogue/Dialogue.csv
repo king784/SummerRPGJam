@@ -1,0 +1,9 @@
+,NPC_ID,Conversation_ID,Line_ID,NPCName,Dialogue
+1,1,1,1,Luke,Hi there! We've been looking for you everyhere!
+2,1,1,2,Luke,There is some trouble brewing down by the docks. Go help my brother fend off these bandits.
+3,2,1,1,Manly,Have you seen my dog? I've looked everywhere for him.
+4,3,1,1,Gage,I need to ask of you a favour young hero.
+5,3,1,2,Gage,The bandit leader Oshun has stolen my prized cow. Without her I will never win the country fair.
+6,3,1,3,Gage,Please go to Mango Caves north of here and steal my beloved cow from Oshun.
+7,3,2,1,Gage,Thank you so much. Here; some coin for your time
+8,4,1,1,Make,Wha'cha looking at scrub?
