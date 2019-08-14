@@ -1,0 +1,4 @@
+,EnemyID,HP,MP,Strength,Magic,Defence,Agility,CurrentExp,CurrentLevel,Name,Level
+1,1,10,5,2,2,4,2,300,2,Crabbler,Beach
+2,2,13,3,3,1,2,3,400,3,Shrimple,Beach
+3,3,15,5,2,2,2,2,250,2,Box,Forest
